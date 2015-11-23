@@ -5,7 +5,7 @@ copy this file to your gl and run these commands
 javac DijkstraAlgorithmSet.java
 java DijkstraAlgorithmSet
 
-This will run the program. Here is the output of the current version. Note that it will crash because it runs out of memory aka, there are too many nodes.
+This will run the program. Here is the output of the current version. Note that it will crash because it runs out of memory aka, there are too many nodes. I have also provided an image of my output, click on the link in the main repo window to view.
 
 Output:
 
